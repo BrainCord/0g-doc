@@ -30,7 +30,7 @@ For official deployed contract addresses, visit [this page](../docs/contract-add
 * For Linux
 
 <pre><code><strong>sudo apt-get update
-</strong>sudo apt-get install clang cmake build-essential
+</strong>sudo apt-get install clang cmake build-essential pkg-config libssl-dev
 </code></pre>
 
 * For Mac
@@ -71,7 +71,7 @@ Open the package file you downloaded and follow the prompts to install Go.
 4. Then download the source code
 
 ```bash
-git clone -b v0.4.0 https://github.com/0glabs/0g-storage-node.git
+git clone -b v0.4.4 https://github.com/0glabs/0g-storage-node.git
 ```
 
 5. Build the source code
