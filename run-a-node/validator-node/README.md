@@ -20,7 +20,7 @@ Make sure your server timezone configuration is UTC. Check your current timezone
 ### Install 0gchaind via CLI
 
 ```bash
-git clone -b v0.2.3 https://github.com/0glabs/0g-chain.git
+git clone -b v0.3.1.alpha.1 https://github.com/0glabs/0g-chain.git
 ./0g-chain/networks/testnet/install.sh
 source ~/.profile
 ```
