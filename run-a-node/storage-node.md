@@ -30,7 +30,7 @@ For official deployed contract addresses, visit [this page](../docs/contract-add
 * For Linux
 
 <pre><code><strong>sudo apt-get update
-</strong>sudo apt-get install clang cmake build-essential
+</strong>sudo apt-get install clang cmake build-essential pkg-config libssl-dev
 </code></pre>
 
 * For Mac
